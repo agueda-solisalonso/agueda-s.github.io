@@ -2,7 +2,7 @@
 title: "Judging the paper by its cover: Affiliation bias in conference admissions"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/aff-bias
 excerpt: joint with [Giacomo Gallegati](https://sites.google.com/view/giacomogallegati/), [Luca Favero](https://sites.google.com/view/luca-favero/) and [Enrique Carreras](https://www.phdpareto.carloalberto.org/enrique-carreras/)
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4994789)'
 ---
