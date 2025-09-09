@@ -19,6 +19,6 @@ I am an applied economist, primarily interested in education and labor economics
 
 You can find my CV [here]()
 
-Link to my Job Market Paper [here] ()
+Link to my Job Market Paper [here]()
 
 Contact: solisalonso.agueda@gmail.com
