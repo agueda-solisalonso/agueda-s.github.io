@@ -16,8 +16,8 @@ You can visit my main website [here] (https://sites.google.com/carloalberto.org/
 **I am on the 2025/2026 academic job market**
 
 
-You can find my CV [here]()
+You can find my CV [here](agueda-s.github.io/files/SolisAlonso_Agueda_CV.pdf)
 
-Link to my Job Market Paper [here]()
+Link to my Job Market Paper [here](agueda-s.github.io/files/SolisAlonso_JMP_Rank.pdf)
 
 Contact: solisalonso.agueda@gmail.com
